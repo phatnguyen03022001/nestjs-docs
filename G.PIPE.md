@@ -239,3 +239,4 @@ export class UsersController {
 - Tự động hóa xác thực và chuyển đổi.
 - Xử lý lỗi tự động.
 - Đảm bảo type safety cho controller methods.
+
